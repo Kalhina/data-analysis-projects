@@ -1,7 +1,7 @@
 # data-analysis-projects
 
 ### Data analysis notebooks, algorithms, visualizations
----
+
 Hello! 
 
 This is a repository dedicated to data analysis projects, mostly with the Python programming language. The projects are separated into different notebooks although they might convey similar ideas.
